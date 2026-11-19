@@ -1,0 +1,6 @@
+{
+  "name": "FIRE IPTV",
+  "description": "FIRE IPTV — Full-screen landscape IPTV player for Android powered by Media3 ExoPlayer, Xtream Codes, Stalker MAC Portal, M3U, and FGCode. Powered by MinaEhab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
